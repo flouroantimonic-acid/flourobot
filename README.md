@@ -1,0 +1,2 @@
+# flourobot
+Discord utility bot.
