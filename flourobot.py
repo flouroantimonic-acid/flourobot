@@ -9,7 +9,7 @@ from googlesearch import search
 from googletrans import Translator
 
 BOT_PREFIX = ("/")
-TOKEN = "NTc0NTAxMDIwNjA0ODI1NjIx.XM6fXQ.TPb0N98EQmvRbU14RRern8aVS1Y"  # Get at discordapp.com/developers/applications/me
+TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Get at discordapp.com/developers/applications/me
 
 client = Bot(command_prefix=BOT_PREFIX)
 
